@@ -35,7 +35,7 @@
   "dependencies": {
     "babel-cli": "^6.26.0",
     "bcrypt": "^4.0.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "urix": "^0.1.0"
   }
 }
